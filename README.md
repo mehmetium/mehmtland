@@ -1,4 +1,6 @@
-> class Ghost {
+> ```fix
+> **Za i am developer**
+> 
 >     constructor(options) {
 >         this.name = "Mehmet",
 >         this.sex = "man",
