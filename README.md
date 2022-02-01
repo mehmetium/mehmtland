@@ -1,12 +1,11 @@
-```fix
 class Ghost {
     constructor(options) {
         this.name = "Mehmet",
         this.sex = "man",
-        this.length = "176",
+        this.length = "177",
         this.type = "human",
         this.job = "student",
-        this.weight = "55",
+        this.weight = "57",
         this.age = "17"
     };
 }
@@ -14,3 +13,4 @@ class Ghost {
 module.exports = Ghost
 
 
+client.login("discord.gg/arkhe")
