@@ -1,4 +1,5 @@
-```class Ghost {
+```fix
+class Ghost {
     constructor(options) {
         this.name = "Mehmet",
         this.sex = "man",
@@ -10,6 +11,6 @@
     };
 }
 
-module.exports = Ghost```
+module.exports = Ghost
 
 
