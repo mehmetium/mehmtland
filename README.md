@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @mehmtland
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```class Ghost {
+    constructor(options) {
+        this.name = "Mehmet",
+        this.sex = "man",
+        this.length = "176",
+        this.type = "human",
+        this.job = "student",
+        this.weight = "55",
+        this.age = "17"
+    };
+}
 
-<!---
-mehmtland/mehmtland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+module.exports = Ghost```
+
+
