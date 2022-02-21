@@ -1,5 +1,5 @@
 > ```fix
-> **Za i am developer**
+> Za i am developer
 > 
 >     constructor(options) {
 >         this.name = "Mehmet",
