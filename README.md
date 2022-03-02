@@ -1,18 +1,12 @@
-> ```fix
-> Za i am developer
-> 
->     constructor(options) {
->         this.name = "Mehmet",
->         this.sex = "man",
->         this.length = "177",
->         this.type = "human",
->         this.job = "student",
->         this.weight = "57",
->         this.age = "17"
->     };
-> }
->
-> module.exports = Ghost
-> 
-> 
-> client.login("discord.gg/arkhe")
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    Hi there, I'm Mehmet D. - aka Asena :wave:<br>
+    I'm a <em>Backend Developer</em> and <em>Student</em>.<br>
+    I have a great interest in artificial intelligence and chess.<br>
+    I love to play Rocket League.<br>
+    <br><img src="https://komarev.com/ghpvc/?username=mehmtland">
+    <br><br>:coffee: Wanna chat? :point_right: <a href="https://discord.gg/hc7aNpQffm">Discord</a>
+  </samp>
+</p>
