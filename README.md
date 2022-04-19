@@ -3,10 +3,10 @@
   <br><br>
   <samp>
     Hi there, I'm Mehmet D. - aka Asena :wave:<br>
-    I'm a <em>Backend Developer</em> and <em>Student</em>.<br>
+    I'm a <em>Website Development student</em> and <em>Student</em>.<br>
     I have a great interest in artificial intelligence and chess.<br>
-    I love to play Rocket League.<br>
+    I love to play Stardew Valley.<br>
     <br><img src="https://komarev.com/ghpvc/?username=mehmtland">
-    <br><br>:coffee: Wanna chat? :point_right: <a href="https://discord.gg/hc7aNpQffm">Discord</a>
+    <br><br>:coffee: Wanna chat? :point_right: <a href="https://discord.com/users/934010545202405406">Discord</a>
   </samp>
 </p>
