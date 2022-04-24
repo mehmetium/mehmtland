@@ -8,8 +8,7 @@
     I love to play Stardew Valley.<br>
     <br><img src="https://komarev.com/ghpvc/?username=mehmtland">
     <br><br>:coffee: Wanna chat? :point_right: <a href="https://discord.com/users/934010545202405406">Discord</a>
-  </samp>
-</p>
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
@@ -24,3 +23,6 @@
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 ![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
+
+  </samp>
+</p>
